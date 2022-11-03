@@ -2,7 +2,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ronit72&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ronit729.visitor-badge&left_color=red&right_color=green) 
 
 [![@ronit729's Holopin board](https://holopin.io/api/user/board?user=ronit729)](https://holopin.io/@ronit729)
 
